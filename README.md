@@ -12,5 +12,5 @@ In order to get the Twitter API and the MusixMatch API to work you need to have 
 2. Create a file called `Constants.py` in the main folder
 3. The file should look like this:
 
-`BEARER_TOKEN = "[paste in bearer token from Twitter here]"
-MUSIXMATCH_KEY = "[paste in musixmatch api key here]"`
+`BEARER_TOKEN = "[paste in bearer token from Twitter here]"`
+`MUSIXMATCH_KEY = "[paste in musixmatch api key here]"`
